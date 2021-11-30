@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(../img/istockphoto-1026606482-170667a.jpg);    
+}
+
+.title{
+    font-size: 4rem;
+}
+
+.title span{
+    font-size: 3rem;
+}
+
+button{
+    height: 3rem;
+}
